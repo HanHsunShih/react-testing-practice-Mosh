@@ -17,7 +17,7 @@
     {
       "id": 1,
       "name": "Refined Concrete Soap",
-      "price": 799,
+      "price": 100,
       "categoryId": 1
     },
     {
@@ -391,6 +391,12 @@
       "price": 10,
       "categoryId": 1,
       "id": 63
+    },
+    {
+      "name": "Apple earings",
+      "price": 15,
+      "categoryId": 3,
+      "id": 64
     }
   ]
 }
